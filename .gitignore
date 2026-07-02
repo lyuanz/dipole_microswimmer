@@ -1,0 +1,10 @@
+# =========================
+# Data and Output Files
+# =========================
+# Ignore HDF5 files and other heavy data formats
+*.h5
+*.hdf5
+*.csv
+*.dat
+*.npy
+*.npz
